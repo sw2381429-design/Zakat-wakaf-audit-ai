@@ -1,0 +1,12 @@
+tanggal,jenis_dana,kategori,penerima,nik_id,keterangan,masuk,keluar,nilai_pokok_wakaf
+2026-01-05,Zakat,Penghimpunan,Muzakki Hamba Allah 1,MZ-001,Setoran zakat mal tahunan,10000000,0,0
+2026-01-08,Zakat,Penghimpunan,Muzakki Hamba Allah 2,MZ-002,Zakat profesi bulan Januari,5000000,0,0
+2026-01-10,Zakat,Fakir,Bapak Ahmad,32010001,Bantuan sembako dan biaya hidup bulanan,0,1500000,0
+2026-01-12,Zakat,Miskin,Ibu Siti,32010002,Modal usaha warung kelontong kecil,0,2000000,0
+2026-01-15,Zakat,Fisabilillah,DKM Al-Ikhlas,DKM-01,Pembelian semen dan cat untuk renovasi pagar masjid,0,2500000,0
+2026-01-18,Zakat,Amil,Pengurus UPZ,AM-01,Operasional dan honor amil zakat,0,2200000,0
+2026-01-20,Zakat,Fakir,Bapak Ahmad,32010001,Pencairan bantuan tunai tambahan,0,1500000,0
+2026-01-22,Zakat,Gharimin,Bapak Budi,32010003,Bantuan pelunasan hutang kebutuhan pokok mendesak,0,1800000,0
+2026-01-25,Wakaf,Aset Tanah,Wakif H. Sulaiman,WK-001,Wakaf tanah produktif kebun 500m2 (AIW No. 12/2026),0,0,150000000
+2026-01-27,Wakaf,Hasil Wakaf,Pengelola Kebun,WK-001,Pendapatan panen hasil pengelolaan tanah wakaf,3500000,0,150000000
+2026-01-29,Wakaf,Mauquf Alaih,Yatim Dhuafa Binaan,YS-001,Penyaluran beasiswa pendidikan dari hasil wakaf produktif,0,3000000,150000000
